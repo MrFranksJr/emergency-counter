@@ -9,3 +9,7 @@ I live very close to an ambulance / fire truck depot. I decided to build a count
 
 ## Live version
 Click [here](https://emergencycounter.netlify.app/)
+
+<p align="center">
+<img alt="screenshot of the card" src="https://github.com/MrFranksJr/MrFranksJr/blob/main/assets/emergency-counter/counter.jpg">
+</p>
